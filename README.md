@@ -1,5 +1,8 @@
 # spec-sniffer
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Reverse-engineers API documentation by crawling a web app with a headless browser. Point it at any web application and get a complete OpenAPI 3.0 specification of the API endpoints it discovers.
 
 ## How It Works
